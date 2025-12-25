@@ -50,7 +50,7 @@ A personal cognitive science laboratory app built with Flutter. Track your cogni
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/neurolab.git
+   git clone https://github.com/raghavj/neurolab.git
    cd neurolab
    ```
 
